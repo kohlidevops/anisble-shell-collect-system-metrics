@@ -74,8 +74,12 @@ ansible monitoring -m ping
 
 ```
 sudo nano monitor.yml
+```
 
-You can access the below link to copy paste the yaml file
+##### You can access the below link to copy paste the yaml file
+
+```
+https://github.com/kohlidevops/anisble-shell-collect-system-metrics/blob/main/monitor.yml
 ```
 
 ### To check the syntax 
