@@ -56,8 +56,8 @@ sudo nano /etc/ansible/hosts
 add below lines in to the hosts file
 
 [monitoring]
-10.10.10.1
-10.10.10.2
+172.31.7.10
+172.31.4.219
 
 save and exit
 ```
